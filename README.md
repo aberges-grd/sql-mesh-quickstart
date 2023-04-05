@@ -11,3 +11,10 @@ pip install sqlmesh
 ```
 
 Afterwards, follow the tutorial instructions.
+
+## Notes
+
+Apparently the CLI of `sqlmesh` exposes much of the functionality. By creating "plans"
+(`sqlmesh plan`), you add environments such as prod, dev or test.
+
+
