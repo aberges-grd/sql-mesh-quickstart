@@ -1,0 +1,6 @@
+connections:
+    local:
+        type: duckdb
+        database: db.duckdb
+
+default_connection: local
